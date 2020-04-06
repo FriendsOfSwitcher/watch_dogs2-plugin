@@ -9,7 +9,7 @@ features:
   - graphics 
 
 # Optional items.
-graphicsConfig: $!DOCUMENTS!$/My Games/Watch_Dogs 2
+graphicsConfig: $!DOCUMENTS!$/My Games/Watch_Dogs 2/WD2_GamerProfile.xml
 gameDirectory: "WATCH_DOGS2"
 verificationPaths:
   - bin/WatchDogs2.exe
