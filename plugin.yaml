@@ -1,17 +1,15 @@
 # Required items.
-game: "TODO"
-api: TODO
-steamID: TODO
-uid: TODO
-author: TODO
-packageName: TODO
+game: "Watch_Dogs 2"
+api: 1
+steamID: 447040
+uid: com.thegreatcabbage.watch_dogs2
+author: TheGreatCabbage
+packageName: watch_dogs2
 features:
-  - TODO
+  - graphics 
 
 # Optional items.
-graphicsConfig: TODO
-keymapConfig: TODO
-savesFolder: TODO
-gameDirectory: "TODO"
+graphicsConfig: $!DOCUMENTS!$/My Games/Watch_Dogs 2
+gameDirectory: "WATCH_DOGS2"
 verificationPaths:
-  - TODO
+  - bin/WatchDogs2.exe
